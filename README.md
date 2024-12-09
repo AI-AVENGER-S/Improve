@@ -4,6 +4,14 @@
 
 
 
-### Документация:
+## Документация:
 
 **[ссылка на физ. модель](https://docs.google.com/document/d/1JorRZTWII3MCJtf2zKx9VlpLrRFYx_SMpqoOMg_KMBs/edit?usp=sharing)**
+
+
+## Состав команды:
+
+### 1) Попов Е.А.
+### 2) Савельев А.С.
+### 3) Пупыкин Т.Д.
+### 4) Бакиров И.Э.
