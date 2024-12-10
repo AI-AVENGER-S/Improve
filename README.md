@@ -6,7 +6,7 @@
 
 ## Документация:
 
-**[ссылка на физ. модель](https://docs.google.com/document/d/1JorRZTWII3MCJtf2zKx9VlpLrRFYx_SMpqoOMg_KMBs/edit?usp=sharing)**
+**[Ссылка на отчет на диске](https://docs.google.com/document/d/1JorRZTWII3MCJtf2zKx9VlpLrRFYx_SMpqoOMg_KMBs/edit?usp=sharing)**
 
 
 ## Состав команды:
