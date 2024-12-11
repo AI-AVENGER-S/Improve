@@ -42,9 +42,9 @@ def angle(h):
 
 def Cd(alpha):
     if alpha >= 45 and alpha <= 135:
-        return 3
+        return 0.001
     elif alpha <= 45 and alpha >= -45 or alpha >= 135 and alpha <= 225:
-        return 10
+        return 0.8
 
 
 h = 87
