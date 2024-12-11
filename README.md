@@ -10,6 +10,8 @@
 
 **[Ссылка на видео выступления на диске](https://drive.google.com/file/d/1SlbKKZMwLlv5nUk7LwTGso6l_2FQejpo/view?usp=sharing)**
 
+**[Ссылка на видео с полетами](https://drive.google.com/drive/folders/1_Pzkuh2Bx1DkZUOrKM2B8EAK-awTaLem?dmr=1&ec=wgc-drive-globalnav-goto)**
+
 
 ## Состав команды:
 
